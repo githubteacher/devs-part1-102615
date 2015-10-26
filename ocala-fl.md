@@ -4,3 +4,4 @@
 - You can go tubing on the river
 - The beach is about 1-1/2 hours away!
 - My favorite place to eat is Luigis
+- When I grew up there, "cruising the strip" was the thing to do on a Friday night!
