@@ -1,6 +1,6 @@
 ## About Hyderabad, India
 
-- Capital of Andhra Pradesh state
+- Capital of Telangana state 
 - This is in India
 - Charminar is in this city
 - Editing this file again
