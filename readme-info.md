@@ -3,3 +3,7 @@
 - This contain some basic info of this file
 - We can roll back to any specific commit.
 - Updating this file To Merge Again
+- Updating changes in Local to be committed Later
+- I will check these changes as well
+- use ATOM to read files
+- Command is atom  and then file name
