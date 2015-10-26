@@ -7,3 +7,5 @@
 - I will check these changes as well
 - use ATOM to read files
 - Command is atom  and then file name
+- git config --global --unset core.editor
+git config --global core.editor "atom --wait"
